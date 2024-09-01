@@ -6,7 +6,7 @@
 <display-name>SETANTA SPORTS SECTION</display-name>
 </channel>
 
-<programme channel="SETANTA SPORTS" start="20240101000000 +0000" stop="20251231235900 +0000">
+<programme channel="SETANTA SPORTS SECTION" start="20240101000000 +0000" stop="20251231235900 +0000">
 <title>SETANTA SPORTS SECTION</title>
 <desc>Setanta Sports - Various Sports Available In This Section Including English Premier League - These Channels Will Only Work When There Is An Event On</desc>
 <sub-title>SETANTA SPORTS SECTION</sub-title>
@@ -488,7 +488,7 @@
 <display-name>VIDIO SPORTS SECTION</display-name>
 </channel>
 
-<programme channel="VIDIO SPORTS" start="20240101000000 +0000" stop="20251231235900 +0000">
+<programme channel="VIDIO SPORTS SECTION" start="20240101000000 +0000" stop="20251231235900 +0000">
 <title>VIDIO SPORTS SECTION</title>
 <desc>Vidio Sports - Various Sports Available In This Section Including English Premier League - These Channels Will Only Work When There Is An Event On</desc>
 <sub-title>VIDIO SPORTS SECTION</sub-title>
