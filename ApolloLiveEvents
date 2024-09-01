@@ -38,7 +38,7 @@
 <display-name>SETANTA SPORTS 01</display-name>
 </channel>
 
-<programme channel="SETANTA SPORTS 04" start="20240101000000 +0000" stop="20251231235900 +0000">
+<programme channel="SETANTA SPORTS 01" start="20240101000000 +0000" stop="20251231235900 +0000">
 <title>SETANTA SPORTS 01</title>
 <desc>Setanta Sports 01 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
 <sub-title>SETANTA SPORTS 01</sub-title>
@@ -134,7 +134,7 @@
 <display-name>SETANTA SPORTS 07</display-name>
 </channel>
 
-<programme channel="SETANTA SPORTS 04" start="20240101000000 +0000" stop="20251231235900 +0000">
+<programme channel="SETANTA SPORTS 07" start="20240101000000 +0000" stop="20251231235900 +0000">
 <title>SETANTA SPORTS 07</title>
 <desc>Setanta Sports 07 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
 <sub-title>SETANTA SPORTS 07</sub-title>
@@ -250,6 +250,234 @@
 <title>SETANTA SPORTS 14</title>
 <desc>Setanta Sports 14 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
 <sub-title>SETANTA SPORTS 14</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 15">
+<display-name>SETANTA SPORTS 15</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 15" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 15</title>
+<desc>Setanta Sports 15 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 15</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 16">
+<display-name>SETANTA SPORTS 16</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 16" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 16</title>
+<desc>Setanta Sports 16 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 16</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 17">
+<display-name>SETANTA SPORTS 17</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 17" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 17</title>
+<desc>Setanta Sports 17 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 17</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 18">
+<display-name>SETANTA SPORTS 18</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 18" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 18</title>
+<desc>Setanta Sports 18 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 18</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 19">
+<display-name>SETANTA SPORTS 19</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 19" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 19</title>
+<desc>Setanta Sports 19 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 19</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 20">
+<display-name>SETANTA SPORTS 20</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 20" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 20</title>
+<desc>Setanta Sports 20 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 20</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 21">
+<display-name>SETANTA SPORTS 21</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 21" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 21</title>
+<desc>Setanta Sports 21 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 21</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 22">
+<display-name>SETANTA SPORTS 22</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 22" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 22</title>
+<desc>Setanta Sports 22 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 22</sub-title>
+</programme>
+
+</tv>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 23">
+<display-name>SETANTA SPORTS 23</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 23" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 23</title>
+<desc>Setanta Sports 23 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 23</sub-title>
+</programme>
+
+</tv>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 24">
+<display-name>SETANTA SPORTS 24</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 24" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 24</title>
+<desc>Setanta Sports 24 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 24</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 25">
+<display-name>SETANTA SPORTS 25</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 25" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 25</title>
+<desc>Setanta Sports 25 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 25</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 26">
+<display-name>SETANTA SPORTS 26</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 26" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 26</title>
+<desc>Setanta Sports 26 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 26</sub-title>
+</programme>
+
+</tv>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 27">
+<display-name>SETANTA SPORTS 27</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 27" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 27</title>
+<desc>Setanta Sports 27 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 27</sub-title>
+</programme>
+
+</tv>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="SETANTA SPORTS 29">
+<display-name>SETANTA SPORTS 29</display-name>
+</channel>
+
+<programme channel="SETANTA SPORTS 29" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>SETANTA SPORTS 29</title>
+<desc>Setanta Sports 29 - Various Sports Available On This Channel Including English Premier League - This Is A Live Event Channel And Will Only Work When There Is An Event On</desc>
+<sub-title>SETANTA SPORTS 29</sub-title>
 </programme>
 
 </tv>
