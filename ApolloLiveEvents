@@ -114,6 +114,22 @@
 
 <tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
 
+<channel id="EPL - Everton FC">
+<display-name>EPL - Everton FC</display-name>
+</channel>
+
+<programme channel="EPL - Everton FC" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</title>
+<desc>Next Fixture - Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</desc>
+<sub-title>EPL - Everton FC</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
 <channel id="EPL - Southampton FC">
 <display-name>EPL - Southampton FC</display-name>
 </channel>
