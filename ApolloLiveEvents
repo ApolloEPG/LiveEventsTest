@@ -140,6 +140,12 @@
 <sub-title>EPL - Southampton FC</sub-title>
 </programme>
 
+</tv>
+
+<channel id="EPL - Southampton FC">
+<display-name>EPL - Southampton FC</display-name>
+</channel>
+
 <programme channel="EPL - Southampton FC" start="20240101000000 +0000" stop="20251231235900 +0000">
 <title>Everton v Southampton - Tuesday 17th September - 19:45 Kick Off GMT - Carabao Cup</title>
 <desc>Next Fixture - Everton v Southampton - Tuesday 17th September - 19:45 Kick Off GMT - Carabao Cup</desc>
