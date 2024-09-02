@@ -66,6 +66,38 @@
 
 <tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
 
+<channel id="EPL - Brighton & Hove Albion FC">
+<display-name>EPL - Brighton & Hove Albion FC</display-name>
+</channel>
+
+<programme channel="EPL - Brighton & Hove Albion FC" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>Brighton & Hove Albion v Ipswich Town - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</title>
+<desc>Next Fixture - Brighton & Hove Albion v Ipswich Town - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
+<sub-title>EPL - Brighton & Hove Albion FC</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="EPL - Chelsea FC">
+<display-name>EPL - Chelsea FC</display-name>
+</channel>
+
+<programme channel="EPL - Chelsea FC" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</title>
+<desc>Next Fixture - AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</desc>
+<sub-title>EPL - Chelsea FC</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
 <channel id="EPL - Southampton FC">
 <display-name>EPL - Southampton FC</display-name>
 </channel>
