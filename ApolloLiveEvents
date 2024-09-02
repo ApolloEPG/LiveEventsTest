@@ -1217,19 +1217,3 @@
 </programme>
 
 </tv>
-
-<?xml version="1.0" encoding="utf-8"?>
-
-<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-
-<channel id="Test">
-<display-name>Test</display-name>
-</channel>
-
-<programme channel="Test" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>This Is A Test</title>
-<desc>This Is A Test</desc>
-<sub-title>Test</sub-title>
-</programme>
-
-</tv>
