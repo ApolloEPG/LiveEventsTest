@@ -162,6 +162,22 @@
 
 <tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
 
+<channel id="EFL - West Brom">
+<display-name>EFL - West Brom</display-name>
+</channel>
+
+<programme channel="EFL - West Brom" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>Portsmouth v WBA - Sunday 15th September - 15:00 Kick Off GMT</title>
+<desc>Next Fixture - Portsmouth v WBA - Sunday 15th September - 15:00 Kick Off GMT - EFL Championship</desc>
+<sub-title>EFL - West Brom</sub-title>
+</programme>
+
+</tv>
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
 <channel id="SETANTA SPORTS SECTION">
 <display-name>SETANTA SPORTS SECTION</display-name>
 </channel>
