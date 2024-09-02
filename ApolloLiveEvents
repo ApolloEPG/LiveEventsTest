@@ -3,11 +3,11 @@
 <tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
 
 <channel id="EPL - Southampton FC">
-<display-name>EPL - Southampton FC</display-name>
+<display-name>Next Fixture - Southampton v Manchester United - English Premier League - Saturday 14th September - 12:30 Kick Off GMT</display-name>
 </channel>
 
 <programme channel="EPL - Southampton FC" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>Next Fixture - Southampton v Manchester United - English Premier League - Saturday 14th September - 12:30 Kick Off GMT</title>
+<title>EPL - Southampton FC</title>
 <desc>Next Fixture - Southampton v Manchester United - English Premier League - Saturday 14th September - 12:30 Kick Off GMT</desc>
 <sub-title>EPL - Southampton FC</sub-title>
 </programme>
