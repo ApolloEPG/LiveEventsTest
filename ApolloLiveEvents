@@ -2,6 +2,10 @@
 <channel id="Premier League Teams 2024/25">
 <display-name lang="en">Premier League Teams 2024/25</display-name>
 <icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
+<channel id="Arsenal">
+<display-name lang="en">Arsenal</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
+</channel>
 HTTP/1.1 200 OK
 access-control-allow-credentials: true
 access-control-allow-origin: *
