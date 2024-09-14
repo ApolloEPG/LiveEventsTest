@@ -1,3 +1,7 @@
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="Premier League Teams 2024/25">
+<display-name lang="en">Premier League Teams 2024/25</display-name>
+<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
 HTTP/1.1 200 OK
 access-control-allow-credentials: true
 access-control-allow-origin: *
