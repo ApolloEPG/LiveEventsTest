@@ -1,2 +1,27 @@
-<div class="fwp-embed" data-url="west-bromwich-albion/fixtures-results"></div>
-<script src="https://www.footballwebpages.co.uk/embed.js" defer></script>
+$requesttest = 'http://www.footballwebpages.co.uk/teams.xml';
+if($requesttest == NULL) return false;  
+$ch = curl_init($requesttest);  
+curl_setopt($ch, CURLOPT_TIMEOUT, 5);  
+curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 5);  
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  
+$data = curl_exec($ch);  
+$httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);  
+curl_close($ch); 
+
+if($httpcode == 429){
+    return 'Try again later, too many requests recieved.';
+} else if($httpcode>=200 && $httpcode<300){
+    /* run code to grab xml file */
+    $comps = array (    0 => 1, /* Premier_League */
+                    1 => 2 /* Championship */ 
+                    );
+    $comps_total = count($comps);
+    $comps_no = 0;
+
+    while ($comps_no < $comps_total) {
+        $url = 'http://www.footballwebpages.co.uk/teams.xml?comp=' . $comps[$comps_no];
+        $full_list = simplexml_load_file($url);
+        /* Code for grabbing and storing info from XML */
+} else {
+    return 'Football Web Pages Offline';
+}
