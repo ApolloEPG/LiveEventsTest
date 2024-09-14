@@ -1,12 +1,1230 @@
-<tv generator-info-name="none" generator-info-url="none">
-<channel id="Premier League Teams 2024/25">
-<display-name lang="en">Premier League Teams 2024/25</display-name>
-<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
-<channel id="Arsenal">
-<display-name lang="en">Arsenal</display-name>
-<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
-</channel>
-curl --request GET \
-	--url 'https://football-web-pages1.p.rapidapi.com/fixtures-results.json?comp=1&round=1&team=1' \
-	--header 'x-rapidapi-host: football-web-pages1.p.rapidapi.com' \
-	--header 'x-rapidapi-key: b1b98d2ac9msh904536ee749af74p1fc616jsne691d4fe422e'
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <fixtures-results>
+         <team>
+             <name>Arsenal</name>
+             <id>1</id>
+         </team>
+         <matches>
+             <date>2024-08-17</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489423</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>2</score>
+                 <half-time-score>1</half-time-score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <referee>Jarred Gillett</referee>
+             <away-team>
+                 <score>0</score>
+                 <half-time-score>0</half-time-score>
+                 <name>Wolverhampton Wanderers</name>
+                 <id>44</id>
+             </away-team>
+             <attendance>60261</attendance>
+             <status>
+                 <short>FT</short>
+                 <full>Full Time</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-08-24</date>
+             <venue>Villa Park</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489432</id>
+             <time>17:30</time>
+             <home-team>
+                 <score>0</score>
+                 <half-time-score>0</half-time-score>
+                 <name>Aston Villa</name>
+                 <id>2</id>
+             </home-team>
+             <referee>Michael Oliver</referee>
+             <away-team>
+                 <score>2</score>
+                 <half-time-score>0</half-time-score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>41587</attendance>
+             <status>
+                 <short>FT</short>
+                 <full>Full Time</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-08-31</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489441</id>
+             <time>12:30</time>
+             <home-team>
+                 <score>1</score>
+                 <half-time-score>1</half-time-score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <referee>Chris Kavanagh</referee>
+             <away-team>
+                 <score>1</score>
+                 <half-time-score>0</half-time-score>
+                 <name>Brighton & Hove Albion</name>
+                 <id>21</id>
+             </away-team>
+             <attendance>60326</attendance>
+             <status>
+                 <short>FT</short>
+                 <full>Full Time</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-09-15</date>
+             <venue>Tottenham Hotspur Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>493563</id>
+             <time>14:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Tottenham Hotspur</name>
+                 <id>19</id>
+             </home-team>
+             <referee>J. Gillett</referee>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>2pm</short>
+                 <full>Kick off 2pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-09-19</date>
+             <venue>Gewiss Stadium</venue>
+             <round>
+                 <name>Matchday 1</name>
+                 <id>141</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512024</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Atalanta</name>
+                 <id>1956</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-09-22</date>
+             <venue>Etihad Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>493566</id>
+             <time>16:30</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Manchester City</name>
+                 <id>12</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>4.30pm</short>
+                 <full>Kick off 4.30pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-09-25</date>
+             <venue>Emirates Stadium</venue>
+             <round>
+                 <name>Third Round</name>
+                 <id>29</id>
+             </round>
+             <competition>
+                 <name>Carabao Cup</name>
+                 <id>22</id>
+             </competition>
+             <id>512810</id>
+             <time>19:45</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Bolton Wanderers</name>
+                 <id>5</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>7.45pm</short>
+                 <full>Kick off 7.45pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-09-28</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489472</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Leicester City</name>
+                 <id>30</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-10-01</date>
+             <venue>Emirates Stadium</venue>
+             <round>
+                 <name>Matchday 2</name>
+                 <id>142</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512030</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Paris St Germain</name>
+                 <id>497</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-10-05</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489481</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Southampton</name>
+                 <id>18</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-10-19</date>
+             <venue>Vitality Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>512567</id>
+             <time>17:30</time>
+             <home-team>
+                 <score>0</score>
+                 <name>AFC Bournemouth</name>
+                 <id>47</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>5.30pm</short>
+                 <full>Kick off 5.30pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-10-22</date>
+             <venue>Emirates Stadium</venue>
+             <round>
+                 <name>Matchday 3</name>
+                 <id>143</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512048</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Shakhtar Donetsk</name>
+                 <id>494</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-10-27</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>510746</id>
+             <time>16:30</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Liverpool</name>
+                 <id>11</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>4.30pm</short>
+                 <full>Kick off 4.30pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-11-02</date>
+             <venue>St. James' Park</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489516</id>
+             <time>12:30</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Newcastle United</name>
+                 <id>15</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>12.30pm</short>
+                 <full>Kick off 12.30pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-11-06</date>
+             <venue>Stadio Giuseppe Meazza</venue>
+             <round>
+                 <name>Matchday 4</name>
+                 <id>144</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512078</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Inter Milan</name>
+                 <id>481</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-11-10</date>
+             <venue>Stamford Bridge</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>513641</id>
+             <time>16:30</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Chelsea</name>
+                 <id>7</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>4.30pm</short>
+                 <full>Kick off 4.30pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-11-23</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489532</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Nottingham Forest</name>
+                 <id>32</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-11-26</date>
+             <venue>Estádio José Alvalade</venue>
+             <round>
+                 <name>Matchday 5</name>
+                 <id>145</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512089</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Sporting Lisbon</name>
+                 <id>996</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-11-30</date>
+             <venue>London Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489549</id>
+             <time>17:30</time>
+             <home-team>
+                 <score>0</score>
+                 <name>West Ham United</name>
+                 <id>42</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>5.30pm</short>
+                 <full>Kick off 5.30pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-12-03</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489552</id>
+             <time>19:45</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Manchester United</name>
+                 <id>13</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>7.45pm</short>
+                 <full>Kick off 7.45pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-12-07</date>
+             <venue>Craven Cottage</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489565</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Fulham</name>
+                 <id>10</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-12-11</date>
+             <venue>Emirates Stadium</venue>
+             <round>
+                 <name>Matchday 6</name>
+                 <id>146</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512111</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Monaco</name>
+                 <id>1632</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-12-14</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489572</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Everton</name>
+                 <id>9</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-12-21</date>
+             <venue>Selhurst Park</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489583</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Crystal Palace</name>
+                 <id>8</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-12-26</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489592</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Ipswich Town</name>
+                 <id>28</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2024-12-29</date>
+             <venue>Gtech Community Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489602</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Brentford</name>
+                 <id>49</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-01-04</date>
+             <venue>American Express Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489613</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Brighton & Hove Albion</name>
+                 <id>21</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-01-14</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489621</id>
+             <time>19:45</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Tottenham Hotspur</name>
+                 <id>19</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>7.45pm</short>
+                 <full>Kick off 7.45pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-01-18</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489631</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Aston Villa</name>
+                 <id>2</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-01-22</date>
+             <venue>Emirates Stadium</venue>
+             <round>
+                 <name>Matchday 7</name>
+                 <id>147</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512129</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Dinamo Zagreb</name>
+                 <id>577</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-01-25</date>
+             <venue>Molineux Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489650</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Wolverhampton Wanderers</name>
+                 <id>44</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-01-29</date>
+             <venue>Estadi Municipal de Montilivi</venue>
+             <round>
+                 <name>Matchday 8</name>
+                 <id>148</id>
+             </round>
+             <competition>
+                 <name>UEFA Champions League</name>
+                 <id>24</id>
+             </competition>
+             <id>512143</id>
+             <time>20:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Girona</name>
+                 <id>2673</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>8pm</short>
+                 <full>Kick off 8pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-02-01</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489652</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Manchester City</name>
+                 <id>12</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-02-15</date>
+             <venue>King Power Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489665</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Leicester City</name>
+                 <id>30</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-02-22</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489672</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>West Ham United</name>
+                 <id>42</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-02-25</date>
+             <venue>The City Ground</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489683</id>
+             <time>19:45</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Nottingham Forest</name>
+                 <id>32</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>7.45pm</short>
+                 <full>Kick off 7.45pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-03-08</date>
+             <venue>Old Trafford</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489696</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Manchester United</name>
+                 <id>13</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-03-15</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489702</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Chelsea</name>
+                 <id>7</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-04-01</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489712</id>
+             <time>19:45</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Fulham</name>
+                 <id>10</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>7.45pm</short>
+                 <full>Kick off 7.45pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-04-05</date>
+             <venue>Goodison Park</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489724</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Everton</name>
+                 <id>9</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-04-12</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489732</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Brentford</name>
+                 <id>49</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-04-19</date>
+             <venue>Portman Road</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489746</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Ipswich Town</name>
+                 <id>28</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-04-26</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489752</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Crystal Palace</name>
+                 <id>8</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-05-03</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489761</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>AFC Bournemouth</name>
+                 <id>47</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-05-10</date>
+             <venue>Anfield</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489774</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Liverpool</name>
+                 <id>11</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-05-18</date>
+             <venue>Emirates Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489781</id>
+             <time>15:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Newcastle United</name>
+                 <id>15</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>3pm</short>
+                 <full>Kick off 3pm</full>
+             </status>
+         </matches>
+         <matches>
+             <date>2025-05-25</date>
+             <venue>St. Mary's Stadium</venue>
+             <competition>
+                 <name>Premier League</name>
+                 <id>1</id>
+             </competition>
+             <id>489798</id>
+             <time>16:00</time>
+             <home-team>
+                 <score>0</score>
+                 <name>Southampton</name>
+                 <id>18</id>
+             </home-team>
+             <away-team>
+                 <score>0</score>
+                 <name>Arsenal</name>
+                 <id>1</id>
+             </away-team>
+             <attendance>0</attendance>
+             <status>
+                 <short>4pm</short>
+                 <full>Kick off 4pm</full>
+             </status>
+         </matches>
+     </fixtures-results>
+ </root>
